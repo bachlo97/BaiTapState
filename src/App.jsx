@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import viteLogo from '/vite.svg'
 import TryGlasses from './try-glasses/try-glasses'
 
 function App() {

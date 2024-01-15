@@ -54,8 +54,8 @@
 .product .card_model img {
     position: absolute;
     opacity: 0.8;
-    top: 25%;
-    left: 25.5%;
+    top: 4em;
+    left: 4.5em;
     width: 50%;
 }
 
